@@ -5,8 +5,8 @@ const client = new Discord.Client();
 // specified message is read in a text channel that the bot is in.
 
 client.on('message', message => {
-  if (message.content === 'ping') {
-    message.reply('pong');
+  if (message.content === 'piaba') {
+    message.reply('vai');
   }
 });
 
