@@ -1,7 +1,7 @@
 {
-  "name": "GUSTAVOEGATOTV",
+  "name": "gustavoegato",
   "version": "0.0.1",
-  "description": "This an easy-to-understand template for a Discord bot",
+  "description": "Bot do Discord",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -14,7 +14,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/build-a-discord-bot"
+    "url": "https://glitch.com/edit/#!/gustavoegato"
   },
   "license": "MIT",
   "keywords": [
