@@ -10,6 +10,6 @@ client.on('message', message => {
   }
 });
 
-client.login("pmAXpE2hnwDuv3nEDWnGfMYeYhRP_Awe");
+client.login("MzkzMzk4ODgwODk4OTA4MTYx.DR1QLg.ZfGt8hIl3zNlBj4WDvMGVlVZrhk");
 
 
